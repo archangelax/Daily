@@ -11,7 +11,8 @@
 	</main>
 
 	<footer>
-		<p>visit <a href="https://kit.svelte.dev">kasdsadev</a> to leardfsdsdsdfteKit</p>
+		By . . Sarocha Phuchongcharoen . !
+		
 	</footer>
 </div>
 
